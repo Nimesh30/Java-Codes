@@ -1,0 +1,24 @@
+Decimal TO Binary 2's Compliment
+-12
+
+  1 1 0 0
+
+0 1 1 0 0
+1 0 0 1 1  
+      + 1		     
+----------
+1 0 1 0 0 
+
+Binary is -12 =  1 0 1 0 0
+
+
+Binary To Decimal 2's Compliment
+
+1 0 1 0 0
+0 1 0 1 1
+      + 1
+---------
+0 1 1 0 0
+
+Decimal is 1 1 0 0 = 12
+        
