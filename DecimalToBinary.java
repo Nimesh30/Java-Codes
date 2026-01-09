@@ -7,7 +7,6 @@ public class DecimalToBinary {
         int pow =1;
 
         while (DecNum > 0) {
-
             int rem =DecNum%2; 
             DecNum=DecNum/2;
             ans += (rem*pow);
