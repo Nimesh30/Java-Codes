@@ -6,7 +6,7 @@ public class ArrayListMax {
 
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
-
+        //Find Maximun using ArrayList
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("How many element you want to add : ");
             int n = sc.nextInt();
@@ -32,3 +32,4 @@ public class ArrayListMax {
         System.out.println("Max element is  " + max);
     }
 }
+
