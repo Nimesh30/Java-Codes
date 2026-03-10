@@ -16,6 +16,7 @@ public class FindFirstRepeatChar {
                 set.add(c.toString());
             }
         }
+        System.out.println(set);
     }
 }
 
